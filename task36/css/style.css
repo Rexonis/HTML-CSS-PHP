@@ -1,0 +1,44 @@
+.five {
+    background-color: rgb(88, 214, 88);
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 130%;
+    width: 60%;
+}
+.two {
+    background-color: royalblue;
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 130%;
+    width: 20%;
+}
+.one {
+    background-color: royalblue;
+    font-size: 15px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 130%;
+    width: 10%;
+    
+}
+
+h1{
+    font-size: 20px;
+}
+.full{
+    background-color: rgb(216, 202, 202);
+    width: 100%;
+      
+}
+header {
+    background-image: url("../img/bg-partnership.svg");
+    background-color: #4a87fa;
+    vertical-align: text-top;
+}
+p {
+    text-align: left;
+    vertical-align: top;
+       
+}
